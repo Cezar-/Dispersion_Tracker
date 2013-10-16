@@ -1,7 +1,7 @@
 Dispersion_Tracker
 ==================
 
-Issue tracker for Dispersion WoW Darkspear Realm.
+Issue tracker for Dispersion WoW Realms.
 
 Visit 
 http://forum.dispersion-wow.com/topic/17-bug-posting-101/
