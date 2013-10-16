@@ -1,0 +1,21 @@
+Bug Reporting Guidelines
+    *Any time you encounter a suspected bug in the game, you should contact a GM via the in-game petition system. Many issues can be rectified immediately by a GM.
+    *State if custom UI mods are being used. Try and test bugs with NO UI MODS INSTALLED.
+    *Supply screenshots where applicable.
+    *Provide as much information as possible, give full names of NPCs, abilities or locations that are involved in the bug. Give ability descriptions as well. *DO NOT ASSUME* that the Developer person on duty knows what you are talking about. 
+    *Use proper English, do not use slang, abbreviations or other unclear language when describing the issue. We can not address bug reports that we do not understand. 
+    *Create a single report for each issue, lists of bugs are difficult to track and respond to, if you have multiple bug reports please verify that there are not already reports on them and then post them each in their own report.
+
+
+Creating a Bug Report
+    *When reporting a bug, we would like you to take the time and search the bug tracker to see if your issue is already reported. While we won't delete duplicate reports, it will save us time if you know the issue is already posted and do not re-post it. Using keywords (such as a unique element of a crash log or an ability name) is a good way to find reports.
+ 
+    *If you haven't found anything, start a report with your issue and put [BUG] in the subject while being as descriptive as possible. Additionally, if you have multiple issues, separate them into different reports. Unique bugs should get unique reports.
+   
+    *Try to include steps to reproduce your problem. Be succinct. Leave out any opinions on the problem and focus on how best to tell us about it to help resolve the issue.
+ 
+When will this bug be fixed?
+    *As soon as Developers have identified a bug and steps for reproducing that bug, we pass it on to the development team to fix. Bugs are usually fixed in order of severity and unless the bug is severe enough to merit a hotfix (a fix immediately patched into the game), its fix is usually implemented in an internal version for Developers to test thoroughly before public release. This means that typically, known bugs are already fixed in the internal version that Developers are testing in preparation for the next patch, but are still active on the current live version of the game.
+ 
+The class forums are full of posts on this issue why hasn’t it been addressed?
+    *Developers do not actively monitor any of the class forums, if an issue has not been posted on Git Hub Tracker it can not be guaranteed to have been seen by Developers.
